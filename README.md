@@ -1,1 +1,1 @@
-# for hacktoberfest
+# For Hacktoberfest
